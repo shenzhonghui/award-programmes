@@ -1,0 +1,53 @@
+{
+    "id": "57734129a998f020500290c7",
+    "author_id": "57733a3fa998f020500290c6",
+    "tab": "job",
+    "content": "<div class=\"markdown-text\"><p>深圳市一花科技股份有限公司 招聘\n【Node.js 开发工程师】\n**主要工作职责： **\n1.在规定时间内完成开发产品提出的新功能；\n2.配合前端开发，设计接口完成功能需求；\n3.维护日常游戏版本稳定；\n4.修复日常玩家反馈的BUG；\n5.完善日常游戏数据统计</p>\n<p><strong>任职资格要求：</strong>\n1.熟悉NodeJS技术，熟悉V8；\n2.熟悉RESTFUL，了解TCP/IP、SOCKET、WEB SOCKET通讯协议；\n3.熟悉Mysql数据库，熟悉Redis、memcached等缓存优化；\n4.熟练使用linux，熟悉linux shell编程，能在linux下进行Node开发和部署；\n5.2年以上工作经验，具有应用程序框架的设计开发经验，对异步处理有深刻理解；\n6.参与过上线游戏项目，且在github上有自己repo优先；\n7.具有独立解决问题的能力。</p>\n<p><strong>关于我们：</strong>\n深圳市一花科技股份有限公司（一花科技：<a href=\"http://www.yiihua.com\">http://www.yiihua.com</a>）专注于手机游戏和网页游戏开发与运营。公司成立于2012年初，位于深圳南山区。一花科技的公司名字寓意为“一花一世界”，即我们致力于将每个游戏打造为一个独立完整的世界，通过自研 发卓越体验的游戏和深入的运营，为用户提供游戏、娱乐、交友等体验。目前我们已经打造了《一花德州扑克》、《牛牛》、《斗地主》等游戏，在德国、日本、泰国、印尼、美国、中国香港、中国台湾等近十个国家和地区成功运营。\n地点：深圳市南山区科技中三路一号海王银河科技大厦18层\n<strong>加入我们：</strong>\n弹性上班、五险一金、周末双休、项目奖金、技能培训、图书津贴、午餐补贴、团建活动多多、老板nice、技术氛围好！\n我们期待每一位有才干、有梦想的伙伴加入，跟我们一起扬帆起航！\n<strong>联系我们：</strong>\n联系人：Tia\n电话：0755-86531536\n邮箱：linlvting@yiihua.com\n公司：深圳市一花科技股份有限公司\n地址：深圳市南山区科技中三路一号海王银河科技大厦18层\n<img src=\"//dn-cnode.qbox.me/FjPuQqmSj3f1H0PORLiOy1IFSLrn\" alt=\"company.jpg\"></p>\n</div>",
+    "title": "[深圳] 一花科技招聘 Node.js 开发工程师 2 名！入职标配MacBookPro，快来吧！！！",
+    "last_reply_at": "2016-06-30T05:50:07.958Z",
+    "good": false,
+    "top": false,
+    "reply_count": 3,
+    "visit_count": 321,
+    "create_at": "2016-06-29",
+    "author": {
+        "loginname": "Tia0401",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20198355?v=3&s=120"
+    },
+    "replies": [{
+        "id": "57739f0fa998f020500290fb",
+        "author": {
+            "loginname": "rochael",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3088175?v=3&s=120"
+        },
+        "content": "<div class=\"markdown-text\"><p>👏</p>\n</div>",
+        "ups": [
+            "57733a3fa998f020500290c6"
+        ],
+        "create_at": "2016-06-29",
+        "reply_id": null
+    }, {
+        "id": "57747d21affdb83c50b08dc0",
+        "author": {
+            "loginname": "chennaonao",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8010186?v=3&s=120"
+        },
+        "content": "<div class=\"markdown-text\"><p>挺屌的公司，福利多，女同事也长得漂亮</p>\n</div>",
+        "ups": [
+            "57733a3fa998f020500290c6"
+        ],
+        "create_at": "2016-06-30",
+        "reply_id": null
+    }, {
+        "id": "5774b30faffdb83c50b08de5",
+        "author": {
+            "loginname": "finmily",
+            "avatar_url": "//gravatar.com/avatar/176a80df9b74b1072d9c332ac51fba47?size=48"
+        },
+        "content": "<div class=\"markdown-text\"><p>感觉环境高大上啊\n前面投递过，前后两个人事一个拒了一个让去面试😓</p>\n</div>",
+        "ups": [],
+        "create_at": "2016-06-30",
+        "reply_id": null
+    }],
+    "is_collect": false
+}
